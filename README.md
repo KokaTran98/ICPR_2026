@@ -1,3 +1,12 @@
+## Competition Results
+
+This repository contains the source code for the solution submitted to the **ICPR 2026 Challenge on Low-Resolution License Plate Recognition**. 
+
+Final standings on the competition leaderboards:
+
+* **Public Leaderboard:** Rank **27** (Score: 0.737)
+* **Private Leaderboard:** Rank **43** (Score: 0.7333)
+  
 # MultiFrame-LPR
 
 Multi-frame OCR solution for the **ICPR 2026 Challenge on Low-Resolution License Plate Recognition**.
